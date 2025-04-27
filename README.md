@@ -1,16 +1,25 @@
-UTN-TUPaD-17
-💻 Matematicas 1
-Tecnicatura Universitaria en Programación
-📍 Universidad Tecnológica Nacional
+# TP Semana de Integracion 1 de Matematicas.
 
-✨ Equipo
-Nombre: El rejunte
-Comisión: M2025-17
-📂 Descripción del Repositorio
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Matematicas 1 (Equipo El rejunte).
+# 💻 Programación 1  
+**Tecnicatura Universitaria en Programación**  
+📍 *Universidad Tecnológica Nacional*  
 
-📌 Estructura del repositorio:
+## AGREGEN SUS DATOS EN ESTE README.
+## ✨ Estudiantes del grupo de Programacion. 
+- **Nombre:** Emmanuel, Molteni
+- **Comisión:** M2025-17
 
-Cada trabajo está organizado en carpetas individuales.
-Los archivos de código fuente (.py) incluyen comentarios y estructura adecuada.
-Se busca mantener un código limpio, ordenado y bien documentado.
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+## 📂 Descripción del Repositorio  
+Este repositorio almacena el trabajo practico de **TP Semana de Integracion 1 de Matematicas**.
