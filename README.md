@@ -12,7 +12,7 @@
 - **Nombre:** Luciano, Mendez
 - **Comisión:** M2025-17
 
-- **Nombre:** xxxxx
+- **Nombre:** Maria Sofia, Monasterio
 - **Comisión:** M2025-17
 
 - **Nombre:** xxxxx
