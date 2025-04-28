@@ -4,7 +4,6 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
-## AGREGEN SUS DATOS EN ESTE README.
 ## ✨ Estudiantes del grupo de Programacion. 
 - **Nombre:** Emmanuel, Molteni
 - **Comisión:** M2025-17
@@ -23,6 +22,9 @@
 
 ## 📜 Descripción del Proyecto  
 **Adivinanzas Binarias** es un juego diseñado para reforzar el aprendizaje de la conversión entre números binarios y decimales. El programa muestra preguntas relacionadas con números binarios y desafía al usuario a adivinar su equivalente decimal, o viceversa.  
+
+## Video Explicativo del proyecto
+    https://www.youtube.com/watch?v=IKqc8s5ZPKA
 
 ### 🛠️ Funcionalidades  
 - Presenta una serie de preguntas con opciones múltiples.
