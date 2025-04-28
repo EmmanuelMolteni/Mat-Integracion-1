@@ -13,7 +13,7 @@ def AdivinanzasBinarias():
         opciones = "\n".join(pregunta["opciones"])
         print(opciones)
         
-        es_correcto = adivinar(pregunta["opciones"], pregunta["respuesta_correcta"])
+        es_correcto = adivinar(pregunta["respuesta_correcta"])
         if es_correcto:
             # Si la respuesta es correcta, se llama a la función contadorPuntaje() para actualizar el puntaje
             print("Correcto!")
