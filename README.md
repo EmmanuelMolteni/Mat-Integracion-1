@@ -9,7 +9,7 @@
 - **Nombre:** Emmanuel, Molteni
 - **Comisión:** M2025-17
 
-- **Nombre:** xxxxx
+- **Nombre:** Luciano, Mendez
 - **Comisión:** M2025-17
 
 - **Nombre:** xxxxx
